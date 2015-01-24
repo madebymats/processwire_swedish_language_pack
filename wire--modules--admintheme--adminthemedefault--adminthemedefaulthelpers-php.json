@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeDefault\/AdminThemeDefaultHelpers.php",
+    "textdomain": "wire--modules--admintheme--adminthemedefault--adminthemedefaulthelpers-php",
+    "translations": {
+        "5e248eb2e87e649e91cc3168e20adf90": {
+            "text": "Granska sidan"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profil"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Logga ut"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "L\u00e4gg till ny"
+        },
+        "aa0e46d2e05217acb9d70a1bbb546845": {
+            "text": "F\u00f6r \u00f6vers\u00e4ttare: V\u00e4nligen \u00f6vers\u00e4tt filen \/wire\/templates-admin\/default.php ist\u00e4llet f\u00f6r den h\u00e4r."
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "file": "wire\/core\/Inputfield.php",
+    "textdomain": "wire--core--inputfield-php",
+    "translations": {
+        "efdf8051d64766330e13627274b01787": {
+            "text": "Villkor utrycks med \"f\u00e4lt=v\u00e4rde\" v\u00e4ljare som inneh\u00e5ller f\u00e4lt och v\u00e4rde som matchar. Flera villkor ska \u00e5tskiljas med kommatecken (,)."
+        },
+        "2d7ff3fa8a1a844b270d96878d358762": {
+            "text": "L\u00e4s mer om hur du anv\u00e4nder det h\u00e4r."
+        },
+        "1729a56cfc89021478498fe0c89a843a": {
+            "text": "Synlighet"
+        },
+        "49632d1c8309d42371ab31fe84d56c91": {
+            "text": "Hur ska det h\u00e4r f\u00e4ltet synas i redigaren?"
+        },
+        "604b97c67341baddd9547c714add721c": {
+            "text": "Alltid \u00f6ppet (f\u00f6rinst\u00e4llt)."
+        },
+        "c412235f3700a685388546e557292a7e": {
+            "text": "Alltid \u00f6ppen och kan inte f\u00e4llas ihop."
+        },
+        "d7a1a486818eebace651ff191e42984f": {
+            "text": "St\u00e4nd endast n\u00e4r f\u00e4ltet \u00e4r tomt."
+        },
+        "996d9abb10eeff734a994fcd5b449db6": {
+            "text": "St\u00e4ngd endast n\u00e4r f\u00e4ltet \u00e4r ifyllt"
+        },
+        "c0b4e286b96d6d694cb7ecb152fe3e9d": {
+            "text": "Alltid st\u00e4ngd, kr\u00e4ver klick f\u00f6r att \u00f6ppnas"
+        },
+        "8263d549648f539508587a67f38d008b": {
+            "text": "G\u00f6md, syns inte i redigeraren"
+        },
+        "3c5df14c7c43b1d43c41b15476154474": {
+            "text": "Alltid st\u00e4ngd och inte \u00e4ndringsbar (l\u00e5st)."
+        },
+        "5b6a6f08f86510a9580df3bb8b31bb2a": {
+            "text": "\u00d6ppen n\u00e4r f\u00e4ltet \u00e4r ifyllt och inte g\u00e5r inte att \u00e4ndra"
+        },
+        "3cfa4a6238e2b559d3f52474e7545485": {
+            "text": "Visa f\u00e4ltet endast n\u00e4r..."
+        },
+        "3b57940d51a0ed7f2d5c49363114bd0e": {
+            "text": "Ange de villkor som kr\u00e4vs f\u00f6r att f\u00e4ltet ska visas."
+        },
+        "a785c32894aad6d7c1dc826a4bc0a4a3": {
+            "text": "Kolumnbredd (%d%%)"
+        },
+        "0eb0b305235144ffe99e247b24200b09": {
+            "text": "Bredden angiven i  procentenheter f\u00f6r f\u00e4ltets beh\u00e5llare (10-100%). Skapar kolumner som l\u00e4gger sig bredvid varandra om utrymmet till\u00e5ter."
+        },
+        "8387772e28e9c2b81fa8cb674e569663": {
+            "text": "Notera att inte alla f\u00e4lt fungerar med mindre vidd \u00e4n 100%."
+        },
+        "6e18e908568ef24580d93bfd3e0f40d7": {
+            "text": "Obligatoriskt"
+        },
+        "c48c7243fc307fd425df738c9f0f4324": {
+            "text": "Ett v\u00e4rde i f\u00e4ltet kr\u00e4vs om om det h\u00e4r alternativet \u00e4r ikryssat."
+        },
+        "8183d67b5c53c5fb254741c64ae6f98d": {
+            "text": "Kr\u00e4vs endast om..."
+        },
+        "bb0df4a2d5e0d99eaba53f152ff7f0f7": {
+            "text": "Ange de villkor som kr\u00e4vas f\u00f6r att f\u00e4ltet ska vara obligatoriskt att fylla i."
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentFilterAkismet.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentfilterakismet-module",
+    "translations": {
+        "4f56cc1383c1e4170dfe1e715a97f5d6": {
+            "text": "Kommentarsfilter Akismet"
+        },
+        "c6fbad5a67362793950bf96bd0e6dad5": {
+            "text": "Anv\u00e4nder Akismet tj\u00e4nsten f\u00f6r att identifiera skr\u00e4ppost. Modul f\u00f6r f\u00e4ltinsticket \"Comments\"."
+        },
+        "00fee5e9143358a3b00c985f3ed3c43e": {
+            "text": "Akismet nyckel"
+        },
+        "69dccaed52b0f6af3c11c97b72d0b963": {
+            "text": "Om du vill ha kommentarer identifierade automatiskt som skr\u00e4ppost kan f\u00e4lttypen \"Comments\" anv\u00e4nda Akismet-tj\u00e4nsten."
+        }
+    }
+}

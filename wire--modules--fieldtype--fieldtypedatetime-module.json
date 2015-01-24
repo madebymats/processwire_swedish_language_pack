@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDatetime.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedatetime-module",
+    "translations": {
+        "eb44c7b0eebc98a8441abb862a254b3d": {
+            "text": "Datum format"
+        },
+        "e7033eefffec056f8898dab5295ef2f6": {
+            "text": "V\u00e4lj det format som ska anv\u00e4ndas f\u00f6r datum utmatning"
+        },
+        "5bdb46a370b6d6a509c68a76551e5e3d": {
+            "text": "F\u00f6r relativ tidsangivelse (till exempel \"f\u00f6r tv\u00e5 dagar sedan\"), se \"Format f\u00f6r tid\""
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ingen"
+        },
+        "8a4b7daad69389d978a2ea6bab5b07f8": {
+            "text": "Format f\u00f6r tid"
+        },
+        "cce774e589c4c23ce9c8cc7cb958861a": {
+            "text": "Om du vill mata ut tid och datum v\u00e4lj format f\u00f6r f\u00e4ltet h\u00e4r."
+        },
+        "c1a326c2753f410fad585781390da97f": {
+            "text": "Datum\/tid utmatningskod"
+        },
+        "7b9ea642d1b10d7efc18d2c64a8940f8": {
+            "text": "Datum\/tid kommer matas ut till nedanst\u00e5ende format"
+        },
+        "e606a86ec2852d83f2ea4622de245889": {
+            "text": "Se [PHP date](http:\/\/php.net\/manual\/en\/function.date.php) referensen."
+        }
+    }
+}

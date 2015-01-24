@@ -1,0 +1,42 @@
+{
+    "file": "wire\/core\/WireUpload.php",
+    "textdomain": "wire--core--wireupload-php",
+    "translations": {
+        "c4d20a850d6031b61534f75058ae320d": {
+            "text": "Uppladdningen lyckades"
+        },
+        "827ac42f1bc60fab16ae517ddb410e31": {
+            "text": "Den uppladdade filen \u00f6verskrider den maximala filstorleken som anges som upload_max_filesize i php.ini."
+        },
+        "8d9086cb60c50b568ba57e0951dc4025": {
+            "text": "Den uppladdade filen \u00f6verskrider MAX_FILE_SIZE direktivet som anger i HTML-formul\u00e4ret."
+        },
+        "4f12b222c9659d62afa795987259933f": {
+            "text": "Den uppladdade filen laddades endast upp delvis."
+        },
+        "8c9067e52e4440d8a20e74fdc745b0c6": {
+            "text": "Ingen fil laddades upp."
+        },
+        "7623dae1dc1a0906e7062e209e36cbdb": {
+            "text": "Tillf\u00e4llig folder saknas."
+        },
+        "93252348cf3a42ca5e38b70d5f866d33": {
+            "text": "Kunde inte skriva till disken."
+        },
+        "361e040fc0355a657b76e6727118e6e9": {
+            "text": "Filuppladdningen stoppades av fil\u00e4ndelsen."
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Maximal filuppladdnings gr\u00e4ns n\u00e5dd."
+        },
+        "3317b878f497a7508ea5c2a02cdf8000": {
+            "text": "Ogiltig fil \u00e4ndelse, v\u00e4nligen anv\u00e4nd en av"
+        },
+        "1cd97c3760708f05e24ee5eb7e6034ce": {
+            "text": "\u00d6verskrider maximal filstorlek"
+        },
+        "acb6c0f25cc888a8d4e3cdc1dc2c247b": {
+            "text": "Inga filer hittade i ZIP-filen"
+        }
+    }
+}

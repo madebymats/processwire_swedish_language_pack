@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextarea.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextarea-module",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Typ av inmatningsf\u00e4lt"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "Typ av f\u00e4lt som anv\u00e4nds f\u00f6r att insamla data."
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "Inneh\u00e5llstyp"
+        },
+        "88183b946cc5f0e8c96b2e66e1c74a7e": {
+            "text": "Ok\u00e4nd"
+        },
+        "f0a7350231680497c534e592203a3b7b": {
+            "text": "Markup\/HTML med bildhantering"
+        }
+    }
+}

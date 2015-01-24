@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentList.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentlist-php",
+    "translations": {
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Kommentarer"
+        },
+        "8725214cdd9f9af24e914b5da135793d": {
+            "text": "L\u00e4nk"
+        },
+        "25d8df6e580905091a0d5ef5b9e05bf0": {
+            "text": "Svara"
+        },
+        "6194a6554ccb6086b8809d2b3a5dddaf": {
+            "text": "Gilla den h\u00e4r kommentaren"
+        },
+        "c7e01d04a86dacfbef51bb8cd79ae5eb": {
+            "text": "Ogilla den h\u00e4r kommentaren"
+        }
+    }
+}

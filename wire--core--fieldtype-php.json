@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/Fieldtype.php",
+    "textdomain": "wire--core--fieldtype-php",
+    "translations": {
+        "2af316156c9ea64d6d56bfe221486efd": {
+            "text": "Om ikryssad kommer datan i det h\u00e4r f\u00e4ltet laddas med varje sida, oavsett om det anv\u00e4nds. Om f\u00e4ltet inte \u00e4r ikryssat laddas datan vid behov och endast n\u00e4r f\u00e4ltet \u00e4r uttryckligen anv\u00e4nds."
+        },
+        "ad1bc8634063998074151ecfaaf2e6a1": {
+            "text": "Om ikryssad kommer alla sidor tvingas anv\u00e4nda f\u00e4ltet. F\u00e4ltet m\u00e5ste inte fyllas i men det kommer att anv\u00e4ndas i alla mallar som skapas eller har skapats."
+        }
+    }
+}

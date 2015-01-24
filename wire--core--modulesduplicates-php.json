@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/ModulesDuplicates.php",
+    "textdomain": "wire--core--modulesduplicates-php",
+    "translations": {
+        "58a6d03e30331d26f3ab31c392c104ab": {
+            "text": "Det verkar finnas flera kopior av modulen \"%S\""
+        },
+        "47edefbd0afb7d34d9a1ea2e99a18d1b": {
+            "text": "V\u00e4nligen \u00e4ndra modulinst\u00e4llningarna f\u00f6r att ange vilken modul som ska anv\u00e4ndas"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselect-module",
+    "translations": {
+        "6b66a61fa66288a9a7ad6474d2e686ec": {
+            "text": "F\u00f6rvalt v\u00e4rde"
+        },
+        "eed6fbc4de3755e7189b1461a4844bea": {
+            "text": "V\u00e4lj bland olika v\u00e4rden som anges bland sidor i en lista"
+        }
+    }
+}

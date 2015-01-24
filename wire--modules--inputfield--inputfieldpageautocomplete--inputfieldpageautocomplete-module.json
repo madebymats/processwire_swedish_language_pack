@@ -1,0 +1,48 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageAutocomplete\/InputfieldPageAutocomplete.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpageautocomplete--inputfieldpageautocomplete-module",
+    "translations": {
+        "0f6969d7052da9261e31ddb6e88c136e": {
+            "text": "Ta bort"
+        },
+        "111ce57a33643818f896c8ef5b78f923": {
+            "text": "Tryck enter f\u00f6r att spara ny sida"
+        },
+        "a2324d16f834e2138b021bb90f1823dc": {
+            "text": "Avancerade inst\u00e4llningar f\u00f6r  automatisk ifyllning"
+        },
+        "5bd9a3b9fd04ef31e99e96b10ce5ac5f": {
+            "text": "Automatisk ifyllnads s\u00f6koperat\u00f6r"
+        },
+        "a711451766d79a07ee817f88cb63ca56": {
+            "text": "S\u00f6koperat\u00f6ren som anv\u00e4nds i API:et"
+        },
+        "ddc1a98a2c8309eab3292b5fda7e0506": {
+            "text": "Om du \u00e4r os\u00e4ker p\u00e5 vad du ska anv\u00e4nda, anv\u00e4nd *="
+        },
+        "6774b148e1f242760726e4c88d08931a": {
+            "text": "Inneh\u00e5ller fras eller delar av ord - rekommenderas"
+        },
+        "10723caf0a8012a762b741f821060ea9": {
+            "text": "Inneh\u00e5ller fras eller del av ord"
+        },
+        "5aebeca1891bcef0142167dda686b4a7": {
+            "text": "Inneh\u00e5ller hela ordet"
+        },
+        "0626526d691a7bf48a099a2330fde59f": {
+            "text": "B\u00f6rjar med ord\/fras"
+        },
+        "a606a68c3a2a799b75998b7be8d48aea": {
+            "text": "Slutar med ord\/fras"
+        },
+        "0a06fd6fea29497256d43910fde22cd3": {
+            "text": "Lika med [exakt]"
+        },
+        "b956d301c10771357a356a80d9f0d3a5": {
+            "text": "F\u00e4lt som ska s\u00f6kas av"
+        },
+        "0c458f5b668cdb153d43ffa89c2f2393": {
+            "text": "Ange namnen p\u00e5 f\u00e4lten som s\u00f6kas av."
+        }
+    }
+}

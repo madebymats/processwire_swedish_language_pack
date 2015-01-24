@@ -1,0 +1,75 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentNotifications.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentnotifications-php",
+    "translations": {
+        "017e8b29849843b6daa2501aad99f7c1": {
+            "text": "V\u00e4ntar p\u00e5 godk\u00e4nnande"
+        },
+        "2ddc852b4c56d7eb5b88fc7b539f6899": {
+            "text": "Godk\u00e4nn nu"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Godk\u00e4nnd"
+        },
+        "72af4a9852b0c2800d279f8d1f8c0661": {
+            "text": "Markera som skr\u00e4p"
+        },
+        "19af9433f96a08338dbcf1ea82186f7c": {
+            "text": "Skr\u00e4p kommer att tar bort efter %d dagar"
+        },
+        "86c1d4d493979ef59b39ac2ff666bff8": {
+            "text": "Inte skr\u00e4p: Godk\u00e4nn nu"
+        },
+        "4a97712de239878854839560e1765f5a": {
+            "text": "Kommentar skickad till %s"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Redigera"
+        },
+        "e8107568f6e83f5b0241f7b880e41a4b": {
+            "text": "Du har avprenumererat fr\u00e5n kommentars notifieringar."
+        },
+        "c6c6e3cf945863d4f61ef6f648fb973c": {
+            "text": "Du har bekr\u00e4ftat att ta emot notifieringar fr\u00e5n den h\u00e4r sidan."
+        },
+        "4b71ef4218c5669aa7d3e360902e5fcd": {
+            "text": "Ny kommentar postad"
+        },
+        "91087eab2782aae45085cf5476081138": {
+            "text": "Postad vid %s"
+        },
+        "92295f3f7fe39fd61f8ce27b523aa341": {
+            "text": "Postad av %s"
+        },
+        "1e0d36c28b3b237af18c36e171a50484": {
+            "text": "URL: %a"
+        },
+        "c835168989fcff535a5d12f1fe9a9d51": {
+            "text": "St\u00e4ng av notifieringar"
+        },
+        "c7c47e22cdf07075fbc40c3197b822e0": {
+            "text": "V\u00e4nligen bekr\u00e4fta notifieringar"
+        },
+        "b5525fa352b1e9c09e58ab014b5273a3": {
+            "text": "Du har berg\u00e4rt att bli underr\u00e4ttad vid svar till din kommenar vid %s. V\u00e4nligen bekr\u00e4fta genom att klicka l\u00e4nken. Om du inte har bett om underr\u00e4ttelser om svar p\u00e5 dina kommentarer kan du ignorera det h\u00e4r meddelandet."
+        },
+        "8130425aab908bac67e8b4ace4861b21": {
+            "text": "Bekr\u00e4fta notifieringar"
+        },
+        "e0c0bcd1370c684469277f8066e3c64f": {
+            "text": "Sida"
+        },
+        "957cba65c7639be540b3bce16e2c8e57": {
+            "text": "Fr\u00e5n"
+        },
+        "d856205677eeb676b9b04c173a231c6b": {
+            "text": "Epost"
+        },
+        "4df6dabe367988d938bbf565bbcdbe43": {
+            "text": "Webbsida"
+        },
+        "bc5db30ce176afbea33060365cda9e6d": {
+            "text": "\u00c5tg\u00e4rd"
+        }
+    }
+}

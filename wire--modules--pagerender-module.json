@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/PageRender.module",
+    "textdomain": "wire--modules--pagerender-module",
+    "translations": {
+        "3a160df105e3d9d54575466354bdd312": {
+            "text": "Sidrenderare"
+        },
+        "d2c5ea4202c4c692852b7e10fbceabd3": {
+            "text": "L\u00e4gger till en renderingsmetod f\u00f6r sidor och cachar sidans utdata."
+        },
+        "403c89515b16b3417cd2e426612b4a53": {
+            "text": "Rensade %d cachade filer f\u00f6r %d sidor"
+        },
+        "0c22fad509c478c3442a310a7a2b2c52": {
+            "text": "Rensa sidan \"Render Disk Cache\""
+        },
+        "b4999a543edcfefc8c56ed6eafdcb98f": {
+            "text": "Det finns f\u00f6r n\u00e4rvarande %d sidor cachade i %s"
+        }
+    }
+}

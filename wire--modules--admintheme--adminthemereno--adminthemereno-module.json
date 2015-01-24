@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeReno.module",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemereno-module",
+    "translations": {
+        "eea889e927448a79d84da81851f9d9cb": {
+            "text": "Skriv h\u00e4r f\u00f6r att s\u00f6ka"
+        },
+        "b3d00bda3ff5e34c61a7fa73267eb75c": {
+            "text": "Admintema f\u00f6r ProcessWire 2.5 av Tom Reno (Renobird)"
+        },
+        "f0a5fc96d36fdda66a2a10b79be6d7fb": {
+            "text": "Val av f\u00e4rgschema"
+        },
+        "d35b51b639528d580362ca7042de6a0e": {
+            "text": "Klassisk"
+        },
+        "9594eec95be70e7b1710f730fdda33d9": {
+            "text": "Bl\u00e5"
+        },
+        "cf64a1df05b0b5640322820b1b705605": {
+            "text": "F\u00e4lt f\u00f6r anv\u00e4ndarbild"
+        },
+        "d076186eb326fac94ae60de5b71755d7": {
+            "text": "Beskrivning av anv\u00e4ndarbil"
+        },
+        "32b92d181457ef3ee601718c6717d21f": {
+            "text": "Inget bildf\u00e4lt har angetts f\u00f6r den h\u00e4r mallen"
+        },
+        "b30e371dcaa3d2b157ef7566aa157b8a": {
+            "text": "F\u00e4ltet %s har lagts till bland anv\u00e4ndarredigerbara f\u00e4lt in den h\u00e4r profilen."
+        },
+        "8f67973007158337346584551b093be8": {
+            "text": "Ikoner"
+        },
+        "f69110441f08575ffbedd45591ddc4e1": {
+            "text": "Ange ikoner f\u00f6r navigationen"
+        },
+        "a5cf3b1e924454eb5f3b0579e2f40830": {
+            "text": "\u00d6vre navigationen: Se startsidan"
+        },
+        "13884a61afb0a46fc63ee2694d21d16e": {
+            "text": "\u00d6vre navigationen: Logga ut"
+        }
+    }
+}

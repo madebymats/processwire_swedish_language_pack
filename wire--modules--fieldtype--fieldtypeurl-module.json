@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeURL.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeurl-module",
+    "translations": {
+        "0ac82d10c1ddd050079962481c40f54f": {
+            "text": "F\u00e4lt som sparar en URL"
+        }
+    }
+}

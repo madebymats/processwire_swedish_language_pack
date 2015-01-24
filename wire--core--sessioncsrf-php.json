@@ -1,0 +1,9 @@
+{
+    "file": "wire\/core\/SessionCSRF.php",
+    "textdomain": "wire--core--sessioncsrf-php",
+    "translations": {
+        "f5456cee91779e33a9f38ddca5081710": {
+            "text": "Den h\u00e4r f\u00f6rfr\u00e5gan behandlades inte d\u00e5 den verkar vara f\u00f6rfalskad."
+        }
+    }
+}

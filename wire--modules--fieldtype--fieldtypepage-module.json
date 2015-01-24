@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
+    "translations": {
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Antal"
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "Till\u00e5t opublicerade sidor?"
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "Kan inte hitta sidan"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "Kan inte hitta mallen"
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "Hitta och rensa sidor utan f\u00f6r\u00e4ldrar"
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Varning! Spara din databas innan du utf\u00f6r den h\u00e4r \u00e5tg\u00e4rden."
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "S\u00f6ker och rensar..."
+        }
+    }
+}
