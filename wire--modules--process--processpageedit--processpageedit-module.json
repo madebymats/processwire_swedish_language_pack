@@ -1,0 +1,162 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/ProcessPageEdit.module",
+    "textdomain": "wire--modules--process--processpageedit--processpageedit-module",
+    "translations": {
+        "7ba9fe21b073af37b16f989e23112967": {
+            "text": "Ok\u00e4nd sida"
+        },
+        "b8e75fd085c6615286cee6fdc4e880ec": {
+            "text": "Sidan \u00e4r l\u00e5st f\u00f6r redigering"
+        },
+        "386397f000925f7d90c87a913a678eed": {
+            "text": "Du har inte tillg\u00e5ng till sidan"
+        },
+        "7b9bb8a9e6b0d2b64837e652485e11c9": {
+            "text": "Redigera sidan %s"
+        },
+        "df74a326081d841aef061c999c7979f3": {
+            "text": "\u00c4ndra %s"
+        },
+        "c0df350b3d4fe22546834d74cdc77023": {
+            "text": "Publicerade sidan %s"
+        },
+        "9ce0bc0d85071636f750e39ea86f86c0": {
+            "text": "Sparade sidan %s"
+        },
+        "a1c508c8dcf832bde214942a479c63e5": {
+            "text": "Den h\u00e4r sidan ligger i papperskorgen"
+        },
+        "404dd23de1c6c7edc7927e5262b93a1b": {
+            "text": "Spara och beh\u00e5ll opublicerad"
+        },
+        "110a4b01beabd53b661a47d4b44bd7a8": {
+            "text": "Publicera"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Spara"
+        },
+        "f15c1cae7882448b3fb0404682e17e61": {
+            "text": "Inneh\u00e5ll"
+        },
+        "64e4aca4297806247f62a7b5f8cbd3df": {
+            "text": "Undersidor"
+        },
+        "9b30437c5e1e966fa90525c93356fd3f": {
+            "text": "Undersidor"
+        },
+        "b5c4bc5ddd4b490f3e2bf5abc0945f1d": {
+            "text": "Det finns inga undersidor"
+        },
+        "fcdd8c7fe4647ee6186ea45dd69d425d": {
+            "text": "Undersidor sorteras  med \"%s\" vid mallen"
+        },
+        "a13cc55582da47cab1f7cc7518700c6e": {
+            "text": "L\u00e4gg till ny sida h\u00e4r"
+        },
+        "7e92f49c92e3f91ed88f03063fc34748": {
+            "text": "Sorteringsinst\u00e4llningar"
+        },
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "Inst\u00e4llningar"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Mall"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "\u00d6versida"
+        },
+        "1ad359c38781f8fc924a380559d60c42": {
+            "text": "Skapad av anv\u00e4ndare"
+        },
+        "567d412904b379e49382b6e3b90881ca": {
+            "text": "Skapad av %1$s den %2$s"
+        },
+        "1dec6a532601f755520b9567091e1bf8": {
+            "text": "Senast \u00e4ndrad av %1$s den %2$s"
+        },
+        "4059b0251f66a18cb56f544728796875": {
+            "text": "Information"
+        },
+        "cacab211629daeffac10e13574e49d9e": {
+            "text": "G\u00f6md. Visas inte i listor och s\u00f6kningar"
+        },
+        "ab4b835121255016ef73bea7f4ea45a7": {
+            "text": "L\u00e5st. G\u00e5r ej att redigera"
+        },
+        "0fdd10ee950975e58b122abb2de3a49b": {
+            "text": "Opublicerad. Syns inte p\u00e5 sidan"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Status"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Ta bort"
+        },
+        "aa47bb0913144619a0a9abc59d59d6ed": {
+            "text": "Ta bort f\u00f6r gott"
+        },
+        "7a289ea949902e8fa53efb4b3b4ccea0": {
+            "text": "Flytta till papperskorgen"
+        },
+        "62a92c8e1a013dc0c9a67f2769642e9f": {
+            "text": "Kryssa i rutan f\u00f6r att bekr\u00e4fta"
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Bekr\u00e4fta"
+        },
+        "6e2e3de95055596f315a073f771342e3": {
+            "text": "Sidan g\u00e5r inte att ta bort"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Granska"
+        },
+        "d2387a51d9f67d60dfc2cbb23bd04af2": {
+            "text": "Vem har tillg\u00e5ng till den h\u00e4r sidan"
+        },
+        "bbbabdbe1b262f75d99d62880b953be1": {
+            "text": "Roll"
+        },
+        "36c2b914f293a142343cba0f3157d748": {
+            "text": "Vad de kan g\u00f6ra"
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(alla)"
+        },
+        "827884bd1b673b7e58def7d09bf59b8b": {
+            "text": "Sidan %s togs bort"
+        },
+        "a419fb9d9fe259c36eb1e4a99462bd1f": {
+            "text": "Flyttade sidan %s"
+        },
+        "6c86eb040dbb20b1c6e1e891774b27ac": {
+            "text": "G\u00e5r inte att flytta sidan till papperskorgen"
+        },
+        "8f1db4fbdd736bfc472e99f61be9e56f": {
+            "text": "Byt mall"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "\u00c4r du s\u00e4ker"
+        },
+        "e4c2fcbaac781d00fe1e192a4d94c0e9": {
+            "text": "V\u00e4nligen bekr\u00e4fta att du f\u00f6rst\u00e5r ovanst\u00e5ende genom att klicka i kryssrutan nedan."
+        },
+        "6b102e11bd33fb8f4be6a6cecf2c491b": {
+            "text": "Du har inte beh\u00f6righet att \u00e4ndra mallen p\u00e5 den h\u00e4r sidan."
+        },
+        "854de5f33bda667c67117b0aaee5a9cf": {
+            "text": "Mallen \u00e4r inte till\u00e5ten"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ingen"
+        },
+        "20a90cbb1d0984f5ecf4fe0cf01fe47e": {
+            "text": "Manuell sortering"
+        },
+        "265dabf958cffe4bf96d445dcddf8678": {
+            "text": "%d \u00e4ndring"
+        },
+        "4e5878c0e4b4e901ee96c19e7fd05914": {
+            "text": "%d \u00e4ndringar"
+        }
+    }
+}

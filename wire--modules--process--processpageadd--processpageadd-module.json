@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module",
+    "textdomain": "wire--modules--process--processpageadd--processpageadd-module",
+    "translations": {
+        "a3e80c9c5e2dfb9f58712a83e2006a5e": {
+            "text": "Var vill du l\u00e4gga till sidan?"
+        },
+        "100e1438e523c6553ac21fd872262d56": {
+            "text": "V\u00e4lj en %s:"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "L\u00e4gg till ny"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Mall"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Spara"
+        },
+        "7d4be9f67818bd22d064880270a3e4af": {
+            "text": "Spara och Publicera"
+        },
+        "c4f4f1adddc771c086745ca04050d415": {
+            "text": "L\u00e4gg till sida"
+        },
+        "e1622ba9f41f5b695bddc69e3ceaa204": {
+            "text": "L\u00e4gg till en ny sida"
+        },
+        "abc32b2bc5cd1b61b5d3738f09405c0d": {
+            "text": "Obligatorikr v\u00e4rde saknas"
+        },
+        "bb8bbda58833ce19eef6193e1918e8cf": {
+            "text": "St\u00e4ng av automatisk publicering"
+        }
+    }
+}

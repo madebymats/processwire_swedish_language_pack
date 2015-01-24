@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageLister.module",
+    "textdomain": "wire--modules--process--processpagelister--processpagelister-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Namn"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Skapad"
+        },
+        "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
+            "text": "Vilka sidor ska visas"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filter"
+        },
+        "860515850b6c6beae4343c42ecf3060f": {
+            "text": "L\u00e4gg till filter"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "L\u00e4gg till ny"
+        },
+        "590345301b23eb45c176da0fc139b191": {
+            "text": "Kolumner"
+        }
+    }
+}

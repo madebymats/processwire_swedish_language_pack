@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePageTable.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepagetable-module",
+    "translations": {
+        "181e9a13059454fb2212f1bf10f394ac": {
+            "text": "Avpublicera"
+        },
+        "113931420c7a2560f63fcd9af198df3f": {
+            "text": "sorteringsf\u00e4lt"
+        }
+    }
+}

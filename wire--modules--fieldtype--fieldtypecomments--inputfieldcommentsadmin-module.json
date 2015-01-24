@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/InputfieldCommentsAdmin.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--inputfieldcommentsadmin-module",
+    "translations": {
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Ta bort"
+        },
+        "5150f466372999feb1c31b868e087dfc": {
+            "text": "Spam tas bort automatiskt om angivet i f\u00e4ltets inst\u00e4llningar."
+        },
+        "193a4762fa2301d6e5d9fac2730dbe71": {
+            "text": "Den h\u00e4r kommentaren inv\u00e4ntar godk\u00e4nnande eller radering."
+        },
+        "6f9e04c43332fd4945f2c933c8eea611": {
+            "text": "Avs\u00e4ndare"
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "E-post"
+        },
+        "15bbb9d0bbf25e8d2978de1168c749dc": {
+            "text": "Hemsida"
+        },
+        "ece9015e4facb7c419ce80abecfd6852": {
+            "text": "Inga kommentarer att visa"
+        },
+        "dea78eecface40ce1489d1acdc31eae4": {
+            "text": "Tog bort kommentar %d"
+        },
+        "58b6f822b062991647cf2e70b0140352": {
+            "text": "Uppdaterade %s f\u00f6r kommentaren %d"
+        },
+        "4da50726e74180c03ab1cfe637bb590b": {
+            "text": "Admin kommentarer"
+        },
+        "a12b241da69948907eecb3786cedc5a3": {
+            "text": "Godk\u00e4nd"
+        },
+        "af4a8ef24b938b7857109b49e38c8969": {
+            "text": "V\u00e4ntar"
+        },
+        "39ef1e97d0b7fa0510cd93cd5f2cf99b": {
+            "text": "Skr\u00e4p"
+        },
+        "95742f3daaebcf075ad53961b11fc0dd": {
+            "text": "Kommentar nr. %1$d inlagd %2$s av %3$s"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Text"
+        }
+    }
+}
