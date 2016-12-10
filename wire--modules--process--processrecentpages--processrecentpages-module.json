@@ -1,0 +1,66 @@
+{
+    "file": "wire\/modules\/Process\/ProcessRecentPages\/ProcessRecentPages.module",
+    "textdomain": "wire--modules--process--processrecentpages--processrecentpages-module",
+    "translations": {
+        "fda27fd4e8f31d46c37d6ebb661d4975": {
+            "text": "Inga sidor tillagda \u00e4nnu"
+        },
+        "0f1af93a396987467471642622b4f372": {
+            "text": "Den h\u00e4r funktionen kr\u00e4ver tillst\u00e5nd att anv\u00e4nda page-lister funktoinen"
+        },
+        "0cd816a2b17a6fd85120a4ffc417ef52": {
+            "text": "Nyligen anv\u00e4nda sidor"
+        },
+        "e8ec3c5a66a1458617d385c211485937": {
+            "text": "Sidor nyligen skapade av %s"
+        },
+        "6164ab6f0d40bf0dbb4d016d70f22451": {
+            "text": "Nyligen skapade sidor"
+        },
+        "0fa9b1da7af6dc7c17300d2696d4e840": {
+            "text": "Sidor nyligen redigerade av %s"
+        },
+        "727d0685214d2e29837bf220bd336876": {
+            "text": "Nyligen redigerade sidor"
+        },
+        "0d52952360bedad458af277a8f2aeb1e": {
+            "text": "i %s"
+        },
+        "854a4e1057837e016fa0fd26de810760": {
+            "text": "L\u00e4gg till ytterligare en"
+        },
+        "587e304d5de9c56ac7833cb11fbbbcf9": {
+            "text": "Klicka f\u00f6r att l\u00e4gga till ytterligare en av samma typ"
+        },
+        "67ed6ddb7d890b23166c1bef771e9451": {
+            "text": "Redigerad"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Skapad"
+        },
+        "2ff3c4fe971c877ac58d0d2ae6d21a1f": {
+            "text": "Redigerade av mig"
+        },
+        "1914dedd048465ec232e765349041af5": {
+            "text": "Skapade av mig"
+        },
+        "47d881f2691b3fe7e1aa6ddd1d9362fa": {
+            "text": "Sida"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "\u00d6versida"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "Mall"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Skapad"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "\u00c4ndrad"
+        },
+        "7a194bb4dc7991f70455c1068bc10d94": {
+            "text": "Senast skapad"
+        }
+    }
+}

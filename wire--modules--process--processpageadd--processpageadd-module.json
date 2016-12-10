@@ -3,34 +3,67 @@
     "textdomain": "wire--modules--process--processpageadd--processpageadd-module",
     "translations": {
         "a3e80c9c5e2dfb9f58712a83e2006a5e": {
-            "text": "Var vill du l\u00e4gga till sidan?"
+            "text": "Var ska den nya %s l\u00e4ggas till?"
         },
         "100e1438e523c6553ac21fd872262d56": {
-            "text": "V\u00e4lj en %s:"
+            "text": "V\u00e4lj en \u00f6versida %s nedan:"
+        },
+        "1f03189503b2b085455900a07777134c": {
+            "text": "Upptagen"
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "Ok"
         },
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "L\u00e4gg till ny"
         },
+        "5ffb937a7aaced6b2c652cd8b8650135": {
+            "text": "Namnet anv\u00e4nds redan. \u00c4ndras automatiskt om du inte \u00e4ndrar det sj\u00e4lv."
+        },
+        "d337f7f6b3b52602b84f206e80fc6a85": {
+            "text": "Ingen mall \u00e4r tillf\u00e4nglig f\u00f6r att l\u00e4gga till en ny sida h\u00e4r."
+        },
+        "76effbf5625101a8e29d5720e986ee6a": {
+            "text": "Mall \"%s\" \u00e4r inte till\u00e5ten h\u00e4r"
+        },
         "278c491bdd8a53618c149c4ac790da34": {
             "text": "Mall"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "\u00d6versida"
         },
         "c9cc8cce247e49bae79f15173ce97354": {
             "text": "Spara"
         },
         "7d4be9f67818bd22d064880270a3e4af": {
-            "text": "Spara och Publicera"
+            "text": "Spara + Publicera"
         },
-        "c4f4f1adddc771c086745ca04050d415": {
-            "text": "L\u00e4gg till sida"
+        "41553b358b6daba19bf079d5ad3eefb1": {
+            "text": "Oanv\u00e4nd tempor\u00e4r sia"
         },
-        "e1622ba9f41f5b695bddc69e3ceaa204": {
-            "text": "L\u00e4gg till en ny sida"
+        "9c99ecab6aa8967c077e01a0b3f51668": {
+            "text": "Skapade sidan %1$s med mallen %2$s"
         },
         "abc32b2bc5cd1b61b5d3738f09405c0d": {
-            "text": "Obligatorikr v\u00e4rde saknas"
+            "text": "Obligatoriskt f\u00e4lt saknas: name"
+        },
+        "9e31eadc87a42dd9b75f4b4d141c192b": {
+            "text": "Namnet p\u00e5 sidan anv\u00e4nds redan. V\u00e4nligen anv\u00e4nd ett annat namn."
+        },
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Varning! Namnet du valde \"%1$s\" anv\u00e4nds redan och har \u00e4ndrats till \"%2$s\"."
+        },
+        "e0f8c45404ac3252900cc035530cd905": {
+            "text": "Genv\u00e4g f\u00f6r mallens sorteringsordning."
         },
         "bb8bbda58833ce19eef6193e1918e8cf": {
-            "text": "St\u00e4ng av automatisk publicering"
+            "text": "Inaktivera automatisk publicering"
+        },
+        "c4f4f1adddc771c086745ca04050d415": {
+            "text": "Ny sida"
+        },
+        "e1622ba9f41f5b695bddc69e3ceaa204": {
+            "text": "L\u00e4gg till ny sida"
         }
     }
 }

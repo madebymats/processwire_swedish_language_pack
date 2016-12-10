@@ -1,7 +1,21 @@
 {
     "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeRenoHelpers.php",
     "textdomain": "wire--modules--admintheme--adminthemereno--adminthemerenohelpers-php",
-    "translations": [
-
-    ]
+    "translations": {
+        "3b0c14770e6bd663518496da60f524da": {
+            "text": "Sidtr\u00e4d"
+        },
+        "e8209ff97e2fd1fd89a08e2dbee3673c": {
+            "text": "Supportforum"
+        },
+        "5b6cf869265c13af8566f192b4ab3d2a": {
+            "text": "Dokumentation"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profil"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Logga ut"
+        }
+    }
 }

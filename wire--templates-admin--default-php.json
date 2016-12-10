@@ -9,7 +9,7 @@
             "text": "Sidtr\u00e4d"
         },
         "4cfa6c981549e990fe2344e4c805405e": {
-            "text": "Hitta"
+            "text": "Hitta sidor"
         },
         "ad2376beebecdcf7846ba973fa1a005b": {
             "text": "Inst\u00e4llningar"
@@ -20,14 +20,11 @@
         "bf733d8a933c1601697f364223fc7ecb": {
             "text": "Tilltr\u00e4de"
         },
-        "e3afed0047b08059d0fada10f400c1e5": {
-            "text": "Administration"
-        },
         "a7d6475ec8993b7224d6facc8cb0ead6": {
             "text": "Sida"
         },
         "5e248eb2e87e649e91cc3168e20adf90": {
-            "text": "Granska sida"
+            "text": "Se hemsidan"
         },
         "3a08e2e340ab29fd9263af48193cbf8e": {
             "text": "Spr\u00e5k"
@@ -39,7 +36,7 @@
             "text": "Roller"
         },
         "d08ccf52b4cdd08e41cfb99ec42e0b29": {
-            "text": "Tillst\u00e5nd"
+            "text": "Tilltr\u00e4den"
         },
         "7df96b18c230f90ada0a9e2307226338": {
             "text": "Mallar"
@@ -48,19 +45,31 @@
             "text": "F\u00e4lt"
         },
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
-            "text": "L\u00e4gg till ny"
+            "text": "L\u00e4gg till ny sida"
+        },
+        "dae52b80711ee1029c7006f95018d300": {
+            "text": "Senast anv\u00e4nda sidor"
+        },
+        "b2d37ae1cedf42ff874289b721860af2": {
+            "text": "Loggar"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Redigera"
+        },
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Bokm\u00e4rken"
+        },
+        "b2a54cbbf075b72ad60f3d2afc27e996": {
+            "text": "Redigera sida"
+        },
+        "c43a3544f4b6646216ab7fe6020b84b2": {
+            "text": "Sidlista"
         },
         "cce99c598cfdb9773ab041d54c3d973a": {
             "text": "Profil"
         },
         "0323de4f66a1700e2173e9bcdce02715": {
             "text": "Logga ut"
-        },
-        "21d49ea8e423f836d4351fb8e2cc4afe": {
-            "text": "Importera sidor fr\u00e5n CSV"
-        },
-        "6450242531912981c3683cae88a32a66": {
-            "text": "Formul\u00e4r"
         }
     }
 }

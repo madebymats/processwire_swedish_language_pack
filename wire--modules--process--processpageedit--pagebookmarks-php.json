@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/PageBookmarks.php",
+    "textdomain": "wire--modules--process--processpageedit--pagebookmarks-php",
+    "translations": {
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Bokm\u00e4rken"
+        },
+        "d0b0f5485a703781d56c4c55bdce4da7": {
+            "text": "Redigera bokm\u00e4rken"
+        },
+        "a181a603769c1f98ad927e7367c7aa51": {
+            "text": "Alla"
+        },
+        "e0748a9891a21b21d3c6f6376ab12f8f": {
+            "text": "Det finns inga bokm\u00e4rken"
+        },
+        "ed881bac6397ede33c0a285c9f50bb83": {
+            "text": "alla"
+        },
+        "d5a8dcb24e93ee00847e32750d56eca5": {
+            "text": "Bom\u00e4rken f\u00f6r %s"
+        },
+        "9a013ed2472d5e17678963b8a653a0ac": {
+            "text": "%s redigera bokm\u00e4rken"
+        },
+        "cfbe50a1f9e891f884e3e6318d635a89": {
+            "text": "Endast personer med rollen \"superuser\" kan redigera"
+        },
+        "7317631eaad804856acd03ce85bd8ef7": {
+            "text": "L\u00e4gg till bokm\u00e4rke"
+        },
+        "09c3829dccd8e7db10887f1ec26c7431": {
+            "text": "Sparade bokm\u00e4rken"
+        },
+        "e750f199f551e1b0b52dd0f5228da48d": {
+            "text": "Till\u00e5t anv\u00e4ndande av bokm\u00e4rken?"
+        },
+        "53b820d38e547eb253a74a242a29e16f": {
+            "text": "Bokm\u00e4rken inneb\u00e4r att du kan skapa genv\u00e4gar till sidor, baserat p\u00e5 vilken roll anv\u00e4ndaren har. Anv\u00e4ndbart om det finns m\u00e5nga sidor."
+        },
+        "1aaddfb42057a3f42fbd26b95d3b9c78": {
+            "text": "Klicka \"l\u00e4gg till bokm\u00e4rke\" f\u00f6r att skapa en genv\u00e4g till vald sida. Om du vill att bokm\u00e4rket endast ska synas f\u00f6r vissa anv\u00e4ndare s\u00e5 anger du en roll."
+        }
+    }
+}

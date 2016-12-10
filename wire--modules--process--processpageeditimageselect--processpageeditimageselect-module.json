@@ -1,1 +1,198 @@
-{"file":"wire\/modules\/Process\/ProcessPageEditImageSelect\/ProcessPageEditImageSelect.module","textdomain":"wire--modules--process--processpageeditimageselect--processpageeditimageselect-module","translations":{"5d13ae1a65403891ac0fe044f3acc865":{"text":"Det finns inga bildf\u00e4lt p\u00e5 sidan. Du kan h\u00e4mta bilder fr\u00e5n en annan sida ist\u00e4llet. V\u00e4lj sida..."},"64a201e91bd521f5640318d844920b31":{"text":"Det finns inga bilder p\u00e5 sidan. St\u00e4ng f\u00f6nstret och ladda upp bilder, eller h\u00e4mta bilder fr\u00e5n en annan sida."},"83ea3ed3245ed2ce30aabecdc6b4d354":{"text":"Bilder p\u00e5 sidan:"},"48448404ecc9e95975b334dbe421c0bd":{"text":"Om du vill h\u00e4mta bilder fr\u00e5n en annan sida, v\u00e4lj sidan nedan."},"48ccf48dcf2218a413ce473262f21a0c":{"text":"Bredd"},"e933dc24fb245d863a43b4fefe9b45f5":{"text":"H\u00f6jd"},"9178792605ed21e1641c9b2a2e16a721":{"text":"Du kan \u00e4ven \u00e4ndra bildens storlek genom att dra i bildens nedre h\u00f6gerh\u00f6rn."},"e853a6aca1b442d161c2642e88346bf9":{"text":"Ingen justering"},"811398cb1e49b4f45851cc25fcc6501f":{"text":"Justera till v\u00e4nster"},"ad68675da1db2fb44a8d1cabcbbbb65e":{"text":"Justera till h\u00f6ger"},"e36098607b9dd3b6d7107a449b6a25bd":{"text":"Centrerera"},"d7e02762cdb4621a77388689b2ee53c0":{"text":"Skapa en l\u00e4nk till en st\u00f6rre version av bilden?"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditImageSelect\/ProcessPageEditImageSelect.module",
+    "textdomain": "wire--modules--process--processpageeditimageselect--processpageeditimageselect-module",
+    "translations": {
+        "48ccf48dcf2218a413ce473262f21a0c": {
+            "text": "Bredd:"
+        },
+        "e933dc24fb245d863a43b4fefe9b45f5": {
+            "text": "H\u00f6jd:"
+        },
+        "e254a34f3a1001f00adc55aba5552783": {
+            "text": "Topp:"
+        },
+        "52c9a1be3c0e025b4aa30857a474fea5": {
+            "text": "V\u00e4nster:"
+        },
+        "a547432ab25b830c51cb8a560e4e4f62": {
+            "text": "Bildbeskrivning (alt-v\u00e4rde)"
+        },
+        "f8927cab12c03e7537c735cd3117fba2": {
+            "text": "L\u00e4nk till st\u00f6rre\/original version av bilden"
+        },
+        "9d723d04c40bfd81835c0766a698cf63": {
+            "text": "\u00c4ndra storlek"
+        },
+        "77fb47f76c22aae57cce393488dfee23": {
+            "text": "Spara den h\u00e4r storleken?"
+        },
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Besk\u00e4r"
+        },
+        "9639e32cab248434a17ab32237cb3b71": {
+            "text": "Anv\u00e4nd"
+        },
+        "2c968d3065f948e7d3e6086c46fdcb68": {
+            "text": "Maximera\/hela bredden"
+        },
+        "2d43ecd8d6e1e6e4bd564dd3b15515bc": {
+            "text": "Minimera\/anpassa till sk\u00e4rmen"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Avbryt"
+        },
+        "811398cb1e49b4f45851cc25fcc6501f": {
+            "text": "V\u00e4nsterjusetera"
+        },
+        "ad68675da1db2fb44a8d1cabcbbbb65e": {
+            "text": "H\u00f6gerjustera"
+        },
+        "e36098607b9dd3b6d7107a449b6a25bd": {
+            "text": "Mittjustera"
+        },
+        "3f67a6c93bc61e24e9ba2a9b47712010": {
+            "text": "Spara och ers\u00e4tt"
+        },
+        "c87935037e12cf6f0302989fd23bcf37": {
+            "text": "Spara och kopiera"
+        },
+        "575f5f86d2c7ea113c6710c1037c4465": {
+            "text": "Sparar..."
+        },
+        "a7d784a6301793f61c070496d6988d36": {
+            "text": "Uppdaterar.."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ja"
+        },
+        "b1a0a023c5df1b1928e1176fca487837": {
+            "text": "Nej, anv\u00e4nd %s"
+        },
+        "a7ef116917746995c6efb74b77261e93": {
+            "text": "Bildtext?"
+        },
+        "82e8dd04a8fd3563e8e703b0ab6620d4": {
+            "text": "Bildtext anges efter du infogat bilden."
+        },
+        "b9869a2e0129f044fca87d4b4f7664f0": {
+            "text": "Bildtext h\u00e4r"
+        },
+        "5e470c96fb73af827111043d60af3dbe": {
+            "text": "Rotera medsols"
+        },
+        "f3d4b8039718518b45713ae64c12de37": {
+            "text": "Rotera motsols"
+        },
+        "2f96dd2b9788ed9ecbc6f41c312bf455": {
+            "text": "V\u00e4nd horisontellt"
+        },
+        "8373d2f18e29920f78459f34d71040ad": {
+            "text": "V\u00e4nd vertikalt"
+        },
+        "575acda05a24ee8b606cee4f25024afe": {
+            "text": "Du har inte tilltr\u00e4de att redigera bilder p\u00e5 den h\u00e4r sidan"
+        },
+        "5d13ae1a65403891ac0fe044f3acc865": {
+            "text": "Det finns inga bildf\u00e4lt p\u00e5 den h\u00e4r sidan. V\u00e4lj en annan sida med bilder att v\u00e4lja fr\u00e5n."
+        },
+        "d695a4d4ae7091badbe5c20c5b064bac": {
+            "text": "Det finns inga bilder p\u00e5 den h\u00e4r sidan. Ladda upp en bild eller v\u00e4lj en bild fr\u00e5n en annan sida."
+        },
+        "83ea3ed3245ed2ce30aabecdc6b4d354": {
+            "text": "Bilder p\u00e5 sidan:"
+        },
+        "48448404ecc9e95975b334dbe421c0bd": {
+            "text": "Om du vill v\u00e4lja"
+        },
+        "1f98842c354dc496970446bce14f4c50": {
+            "text": "Ladda upp bild"
+        },
+        "e853a6aca1b442d161c2642e88346bf9": {
+            "text": "Ingen justering"
+        },
+        "8524de963f07201e5c086830d370797f": {
+            "text": "Laddar..."
+        },
+        "fef2a86d13179e1022a0f692ad9f521b": {
+            "text": "Inga \u00e4ndringar gjorda p\u00e5 bild varitationerna"
+        },
+        "46ce1195125fefcac9df32093fb8f238": {
+            "text": "Inga \u00e4ndringar gjorda"
+        },
+        "a39537e1c6a1b744127450b81c4f8173": {
+            "text": "Tog bort variant"
+        },
+        "966c5c54ae383420f05957c520436202": {
+            "text": "Fel n\u00e4r variant togs bort"
+        },
+        "a2c7bdf75d9141ef485ca345d5a3b50c": {
+            "text": "Ta bort f\u00f6rkryssdade"
+        },
+        "d3d2e617335f08df83599665eef8a418": {
+            "text": "St\u00e4ng"
+        },
+        "68155ca6e2858626c370f0fb3ea9bfc5": {
+            "text": "HiDPI\/Retina rutan f\u00f6vald?"
+        },
+        "3608b24ec08977c76c40c8514f3bcbd5": {
+            "text": "Bocka i den h\u00e4r rutan f\u00f6r att  HiDPI\/Retina ska anv\u00e4ndas f\u00f6r nya bilder."
+        },
+        "6cefecef91de145c3ca72fb3d5e59702": {
+            "text": "Generera inte miniatyrer"
+        },
+        "a60c49010df18fff7f99db0d0d5a1522": {
+            "text": "Om vald kommer hela bilden anv\u00e4ndas ist\u00e4llet f\u00f6r miniatyrer."
+        },
+        "36171be725b020fde0f22b3ceb047280": {
+            "text": "Namn p\u00e5 f\u00e4lt som inte ska v\u00e4ljas"
+        },
+        "7fde437e01b597d729484cfc830eb4c5": {
+            "text": "Rekommenderat v\u00e4rde:"
+        },
+        "9909fb0aacb4a219f4b3cb8f57f63a87": {
+            "text": "Klass f\u00f6r v\u00e4nsterjustering"
+        },
+        "9d2836f3ff372cd7964b90d118710202": {
+            "text": "Klass f\u00f6r centreradjustering"
+        },
+        "5e37ad68682589a77a924cdffb018f23": {
+            "text": "Klass f\u00f6r h\u00f6gerjustering"
+        },
+        "792530c475571d1e0faf0c94f333e6f2": {
+            "text": "Bild"
+        },
+        "41aecd06bffa8d91e4b860af01295890": {
+            "text": "Fil"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Storlek"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "\u00c4ndrad"
+        },
+        "4f42496817221234f2297f3605183f29": {
+            "text": "Antecknignar"
+        },
+        "0220ca2a43c59a70842cafc215b6430e": {
+            "text": "Skapad f\u00f6r att placeras i textyta"
+        },
+        "8cc1cfd47373070e2d8f4fc7d367abf3": {
+            "text": "Automatiskt skapad bildminiatyr f\u00f6r administrationsgr\u00e4nssnittet"
+        },
+        "671bf4e51334fa684ae31fdaa130b6db": {
+            "text": "Variant skapad via API:et"
+        },
+        "1c8ce444e68e56abf58edd178ed3bf54": {
+            "text": "Besk\u00e4rd version"
+        },
+        "a3921791372620c674562de0f5b0f9ed": {
+            "text": "Infogad fr\u00e5n sida:"
+        },
+        "8df4dcb71975633a0a9e60b4d05c37d8": {
+            "text": "%1$d variation av bild %2$s"
+        },
+        "02b1a8c5ed34fba75d6ce56f68435743": {
+            "text": "%1$d variationer av bild %2$s"
+        }
+    }
+}

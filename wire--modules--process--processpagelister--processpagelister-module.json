@@ -2,14 +2,26 @@
     "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageLister.module",
     "textdomain": "wire--modules--process--processpagelister--processpagelister-module",
     "translations": {
-        "49ee3087348e8d44e1feda1917443987": {
-            "text": "Namn"
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Mall"
         },
-        "0eceeb45861f9585dd7a97a3e36f85c6": {
-            "text": "Skapad"
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "\u00d6versida"
         },
-        "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
-            "text": "Vilka sidor ska visas"
+        "379a82f72eacfec4228f74d4e39f3eec": {
+            "text": "Antal undersidor"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Dold"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Opublicerad"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "L\u00e5st"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Skr\u00e4p"
         },
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filter"
@@ -17,11 +29,17 @@
         "860515850b6c6beae4343c42ecf3060f": {
             "text": "L\u00e4gg till filter"
         },
+        "d050438ea9af830fff49ddbbad2218b0": {
+            "text": "F\u00f6rvalda kolumner"
+        },
+        "ef7de3f485174ff47f061ad27d83d0ee": {
+            "text": "val"
+        },
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "L\u00e4gg till ny"
         },
-        "590345301b23eb45c176da0fc139b191": {
-            "text": "Kolumner"
+        "2cd1c7a79703fe25a98128ad343a621e": {
+            "text": "Uppdatera resultat"
         }
     }
 }

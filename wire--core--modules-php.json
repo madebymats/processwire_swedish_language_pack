@@ -1,33 +1,5 @@
 {
     "file": "wire\/core\/Modules.php",
     "textdomain": "wire--core--modules-php",
-    "translations": {
-        "3919fe955716c54c409b522a1003f3e0": {
-            "text": "Du har inte tillst\u00e5nd att k\u00f6ra den h\u00e4r modulen"
-        },
-        "de7a358da1292f56861c726d3c860dc0": {
-            "text": "Kan inte installera obligatorisk modul"
-        },
-        "8fbd3d16ca5c99185a023c9b7e6bb3e9": {
-            "text": "Tillst\u00e5nd %s tillagt"
-        },
-        "e349b4d55d1eb71f3b313924149aa242": {
-            "text": "Ett fel uppstod n\u00e4r tillst\u00e5ndet %s skulle l\u00e4ggas till"
-        },
-        "d8b74ebbc7d2d9e0bb9860f5875e6a58": {
-            "text": "Automatisk installation"
-        },
-        "2ccb0669e8a2f6a3117f340bb36e8d4b": {
-            "text": "Automatisk avinstallation"
-        },
-        "37ab3f591b07274ff3b4c891af63e4d1": {
-            "text": "Tog bort tillst\u00e5ndet %s"
-        },
-        "7dd5a577bde82df3631263cfd04a07bb": {
-            "text": "Fel n\u00e4r tillst\u00e5ndet %s skulle tas bort"
-        },
-        "141e30f2de96660020efd996cc916413": {
-            "text": "Modulen beror p\u00e5 en annan modul. %s kr\u00e4ver %s"
-        }
-    }
+    "translations": []
 }

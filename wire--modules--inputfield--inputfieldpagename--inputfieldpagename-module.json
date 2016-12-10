@@ -6,7 +6,10 @@
             "text": "Namn"
         },
         "152cfcb2150e04c8533d86e9d7642b11": {
-            "text": "F\u00e5r inneh\u00e5lla bokst\u00e4ver (a-z), siffror (0-9), bindesstreck och underscores (inga mellanslag)."
+            "text": "Endast bokst\u00e4verna a-z, siffror 0-9, bindestreck  understreck \u00e4r till\u00e5tna. Inga mellanrum \u00e4r till\u00e5tna."
+        },
+        "f48a4577939e2ab65867848e6b439a81": {
+            "text": "Ersatta bokst\u00e4ver"
         }
     }
 }

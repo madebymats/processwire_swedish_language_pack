@@ -2,6 +2,9 @@
     "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
     "textdomain": "wire--modules--process--processpagelist--processpagelist-module",
     "translations": {
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Skr\u00e4p"
+        },
         "f4ec5f57bd4d31b803312d873be40da9": {
             "text": "\u00c4ndra"
         },
@@ -12,7 +15,7 @@
             "text": "V\u00e4lj"
         },
         "46b816f573557a53c93ac78bbcfa9493": {
-            "text": "Avmarkera"
+            "text": "\u00c5ngra val"
         },
         "d3da97e2d9aee5c8fbe03156ad051c99": {
             "text": "Mer"
@@ -20,23 +23,11 @@
         "d95deddfb80310ff0d1d63013611777c": {
             "text": "Klicka och drag f\u00f6r att flytta"
         },
-        "7dce122004969d56ae2e0245cb754d35": {
-            "text": "Redigera"
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "N\u00e4tverksfel, f\u00f6rs\u00f6k igen senare"
         },
-        "4351cfebe4b61d8aa5efa1d020710005": {
-            "text": "Granska"
-        },
-        "03c2e7e41ffc181a4e84080b4710e81e": {
-            "text": "Ny"
-        },
-        "6bc362dbf494c61ea117fe3c71ca48a5": {
-            "text": "Flytta"
-        },
-        "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
-            "text": "Tom"
-        },
-        "a7e253cd8dd95da3e20daf45519a8dc2": {
-            "text": "Skr\u00e4p"
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Ok\u00e4nt fel. F\u00f6rs\u00f6k igen"
         }
     }
 }

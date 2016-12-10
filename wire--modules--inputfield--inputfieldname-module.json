@@ -6,7 +6,10 @@
             "text": "Namn"
         },
         "05241f55e363027bb20f4669d784c28e": {
-            "text": "Anv\u00e4nd endast bokst\u00e4verna a-z (sm\u00e5 bokst\u00e4ver) siffror (0-9) och understreck (inga mellanrum.)"
+            "text": "Ange ett namn p\u00e5 sidan. Namnet kan endast inneh\u00e5lla bokst\u00e4verna a-z (endast sm\u00e5 bokst\u00e4ver), siffrorna 0-9 och understreck. Inga mellanrum \u00e4r till\u00e5tna."
+        },
+        "e5e43bcb90e7ae502c28ecb1089b3aa7": {
+            "text": "Inmatad text \u00e4r giltigt som ett namn p\u00e5 sidan"
         }
     }
 }
